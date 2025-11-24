@@ -1,1 +1,1 @@
-placeholder 
+// Test MainActivity file
